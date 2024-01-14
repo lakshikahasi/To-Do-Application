@@ -1,0 +1,4 @@
+# this directory is intentionally ignored
+# Include rules from other gitignore files
+include: ./backend/.gitignore
+include: ./frontend/.gitignore
